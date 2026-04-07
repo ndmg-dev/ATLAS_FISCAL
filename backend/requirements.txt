@@ -1,0 +1,10 @@
+fastapi
+pydantic
+pydantic-settings
+uvicorn[standard]
+supabase
+structlog
+python-multipart
+httpx
+playwright
+beautifulsoup4
